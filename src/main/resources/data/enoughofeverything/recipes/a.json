@@ -1,0 +1,16 @@
+{
+  "group": "enoughofeverything",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:diamond_ore"
+    }
+  },
+  "result": {
+    "item": "minecraft:fishing_rod",
+    "count": 1
+  }
+}
